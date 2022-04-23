@@ -6,8 +6,9 @@
 
 <h1> All the best......... </h1>
 
-<h1> We will be having 3rd project which is Kubernetes Project.................... </h1>
-     welcom
+<h1> Hi this Srinivas thank you giving for this apartunity 
+ i have 4.7 years of experience as devops engineer and i am corrntly working in Softpillar technologies and i am proficient in git, github, jenkins, maven, docker, ancible, kubernetes, terraform, AWS and Microsoft Azure.   </h1>
+    
 
 
 
