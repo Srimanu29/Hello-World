@@ -1,7 +1,7 @@
 <h1> Hello All, Welcome to Srinivas Trainings !!! </h1>
 
 
-<h1> Now devops job market is peck in the indestry.. all the best </h1>
+<h1>  </h1>
 
 
 <h1> All the best......... </h1>
